@@ -1,0 +1,65 @@
+[
+  {
+    "precio": 2000,
+    "id": 1,
+    "title": "The Dark Side Of The Moon",
+    "artista": "Pink Floyd",
+    "thumbnailUrl": "./img/album-1.jpg"
+  },
+  {
+    "precio": 3500,
+    "id": 2,
+    "title": " The Hybrid Theory",
+    "artista": "Linkin Park",
+    "thumbnailUrl": "./img/album-2.jpg"
+  },
+  {
+    "precio": 3000,
+    "id": 3,
+    "title": "Rust In Peace",
+    "artista": "Megadeth",
+    "thumbnailUrl": "./img/album-3.jpg"
+  },
+  {
+    "precio": 2500,
+    "id": 4,
+    "title": "Showbiz",
+    "artista": "Muse",
+    "thumbnailUrl": "./img/album-4.jpg"
+  },
+  {
+    "precio": 1900,
+    "id": 5,
+    "title": "Ten",
+    "artista": "Pearl Jam",
+    "thumbnailUrl": "./img/album-5.jpg"
+  },
+  {
+    "precio": 2500,
+    "id": 6,
+    "title": "Californication",
+    "artista": "Red Hot Chili Peppers",
+    "thumbnailUrl": "./img/album-6.jpg"
+  },
+  {
+    "precio": 3900,
+    "id": 7,
+    "title": "Signos",
+    "artista": "Soda Stereo",
+    "thumbnailUrl": "./img/album-7.jpg"
+  },
+  {
+    "precio": 3500,
+    "id": 8,
+    "title": "Mago Espadas Y Rosas",
+    "artista": "Rata Blanca",
+    "thumbnailUrl": "./img/album-8.jpg"
+  },
+  {
+    "precio": 2900,
+    "id": 9,
+    "title": "Avalancha",
+    "artista": "Heroes Del Silencio",
+    "thumbnailUrl": "./img/album-9.jpg"
+  }
+]

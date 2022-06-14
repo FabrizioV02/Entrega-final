@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+header {
+  z-index: 1000;
+  width: 100%;
+}
+
+#productos-h4 {
+  text-align: center;
+  margin-top: 1rem;
+}
